@@ -141,3 +141,6 @@
 .border {
   border: none;
 }
+.filter {
+  cursor: pointer;
+}
